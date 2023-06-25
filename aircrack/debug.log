@@ -1,0 +1,30 @@
+2023/6/21 20:54:04 - Application starting
+2023/6/21 20:54:04 - Windir: C:\WINDOWS
+2023/6/21 20:54:04 - Aircrack-ng GUI v1.0.0.10
+2023/6/21 20:57:00 - Application closing
+2023/6/21 20:57:36 - Application starting
+2023/6/21 20:57:36 - Windir: C:\WINDOWS
+2023/6/21 20:57:36 - Aircrack-ng GUI v1.0.0.10
+2023/6/21 20:57:50 - Application closing
+2023/6/21 21:00:01 - Application starting
+2023/6/21 21:00:01 - Windir: C:\WINDOWS
+2023/6/21 21:00:01 - Aircrack-ng GUI v1.0.0.10
+2023/6/21 21:00:13 - Application closing
+2023/6/22 16:44:14 - Application starting
+2023/6/22 16:44:14 - Windir: C:\WINDOWS
+2023/6/22 16:44:14 - Aircrack-ng GUI v1.0.0.10
+2023/6/22 16:46:05 - Application closing
+2023/6/24 19:11:25 - Application starting
+2023/6/24 19:11:25 - Windir: C:\WINDOWS
+2023/6/24 19:11:25 - Aircrack-ng GUI v1.0.0.10
+2023/6/24 19:11:45 - Launch command: "G:\ef\aircrack-ng-1.7-win\bin\aircrack-ng.exe" -a 2 -w ,G:\wpa专用.txt G:\package2-05.cap
+2023/6/24 21:04:34 - Application closing
+2023/6/25 16:12:38 - Application starting
+2023/6/25 16:12:38 - Windir: C:\WINDOWS
+2023/6/25 16:12:38 - Aircrack-ng GUI v1.0.0.10
+2023/6/25 16:12:56 - Launch command: "G:\ef\aircrack-ng-1.7-win\bin\aircrack-ng.exe" -a 2 -w ,G:\新建文本文档.txt G:\package3-06.cap
+2023/6/25 16:13:07 - Application closing
+2023/6/25 16:14:04 - Application starting
+2023/6/25 16:14:04 - Windir: C:\WINDOWS
+2023/6/25 16:14:04 - Aircrack-ng GUI v1.0.0.10
+2023/6/25 16:14:22 - Application closing
